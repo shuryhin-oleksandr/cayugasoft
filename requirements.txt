@@ -1,0 +1,4 @@
+Django
+djangorestframework
+google-api-python-client
+python-social-auth
